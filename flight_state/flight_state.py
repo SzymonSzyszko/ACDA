@@ -14,7 +14,7 @@ class FlightState:
     def define_stability(self):
         pass
     def is_stable(self):
-        pass
+        print(123)
     _
 import numpy as np
 from numpy import linalg as LA
